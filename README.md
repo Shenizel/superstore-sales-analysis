@@ -18,3 +18,7 @@ and discount patterns of a retail superstore.
 
 ## Dataset
 Sample Superstore Dataset from Kaggle
+
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI (4-page interactive dashboard)
