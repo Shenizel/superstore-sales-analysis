@@ -6,7 +6,7 @@ and discount patterns of a retail superstore.
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
-- Power BI (Dashboard - Coming Soon)
+- Power BI (4-page interactive dashboard)
 
 ## Key Findings
 - West region generates the highest sales ($725K)
@@ -19,6 +19,3 @@ and discount patterns of a retail superstore.
 ## Dataset
 Sample Superstore Dataset from Kaggle
 
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Power BI (4-page interactive dashboard)
